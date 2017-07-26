@@ -1,22 +1,13 @@
 {
-  "name": "sage",
-  "version": "9.0.0-beta.3",
-  "author": "Roots <team@roots.io>",
-  "homepage": "https://roots.io/sage/",
+  "name": "sage-zero",
+  "version": "0.0.1",
+  "author": "Eric Patrick",
+  "homepage": "https://epatr.com",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/roots/sage.git"
-  },
-  "bugs": {
-    "url": "https://github.com/roots/sage/issues"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://opensource.org/licenses/MIT"
-    }
-  ],
+    "url": "git://github.com/epatr/sage-zero.git"
+  }
   "browserslist": [
     "last 2 versions",
     "android 4",
